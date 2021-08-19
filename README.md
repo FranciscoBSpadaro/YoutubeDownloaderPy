@@ -8,3 +8,9 @@
 
 if not working download pytube module and install in project folder
 https://pypi.org/project/pytube/
+
+
+
+Try to upgrade, there is a fix in version 11.0.0:
+
+python -m pip install --upgrade pytube
